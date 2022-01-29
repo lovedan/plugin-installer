@@ -1,5 +1,5 @@
 {
-  "name": "ec-cube/plugin-installer",
+  "name": "yfcshop/plugin-installer",
   "version": "2.0.1",
   "type": "composer-plugin",
   "description": "YFCShop plugin installer.",
