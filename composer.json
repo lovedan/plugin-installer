@@ -1,6 +1,6 @@
 {
   "name": "yfc-shop/plugin-installer",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "type": "composer-plugin",
   "description": "YFCShop plugin installer.",
   "license": "MIT",
